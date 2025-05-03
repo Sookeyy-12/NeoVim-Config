@@ -12,3 +12,6 @@ I am utilizing Lazy as the Package manager.
 6. none-ls
 7. telescope
 8. treesitter
+9. assistant
+10. autopairs
+11. indent-blankline
