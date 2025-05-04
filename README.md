@@ -15,3 +15,4 @@ I am utilizing Lazy as the Package manager.
 9. assistant
 10. autopairs
 11. indent-blankline
+12. persistence
