@@ -5,14 +5,17 @@ I am utilizing Lazy as the Package manager.
 
 ## Plugins in use:
 1. alpha
-2. catppuccin
-3. lsp
-4. lualine
-5. neo-tree
-6. none-ls
-7. telescope
-8. treesitter
-9. assistant
-10. autopairs
-11. indent-blankline
+2. assistant
+3. autopairs
+4. catppuccin
+5. copilot
+6. indent-blankline
+7. lsp-config
+8. lualine
+9. mason
+10. neo-tree
+11. none-ls
 12. persistence
+13. telescope
+14. toggleterm
+15. treesitter
